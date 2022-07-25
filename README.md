@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gemni
+- 👋 Hi, I’m Gemni Benazir Nastiti
 - 👀 I’m interested in data and visualization
 - 🌱 I’m currently learning data analyst
 - 💞️ I’m looking to collaborate with everyone
